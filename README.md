@@ -1,0 +1,3 @@
+# Japanese
+
+my first repo
